@@ -12,6 +12,7 @@ Week 1 - [Electricity](https://docs.google.com/presentation/d/1s91O5JwK2m-d8K2O7
 - [Objectifier](https://bjoernkarmann.dk/objectifier)
 - [(NO)WHERE (NOW)HERE](https://design-milk.com/nowhere-nowhere-interactive-dresses-by-ying-gao/) - Interactive dress by Ying Gao
 - [Deltu by Alexia Léchot](https://www.creativeapplications.net/arduino-2/deltu-by-alexia-lechot-ipad-as-a-mirror-interface-between-humans-and-robots/) - iPad as a 'mirror interface' between humans and robots
+- [LED THROWIES](https://www.graffitiresearchlab.de/category/led-throwies/)
 ### Quick References
 - [The Coding Train](https://thecodingtrain.com/)
 - [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
