@@ -16,7 +16,16 @@ Week 1 - [Electricity](https://docs.google.com/presentation/d/1s91O5JwK2m-d8K2O7
 - [The Coding Train](https://thecodingtrain.com/)
 - [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
 ### Books
+- [All About Electronics Textbook ](https://www.allaboutcircuits.com/textbook/)
 - [Learn Processing](http://learningprocessing.com/)
-### Websites
+- [CODE: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+### Makers' Community
+- [Adafruit Learning System](https://learn.adafruit.com/)
+- [Instructables](https://www.instructables.com/)
+### Supplies Stores
+- [Blick](https://www.dickblick.com/?gclid=CjwKCAjwqZPrBRBnEiwAmNJsNscjqp7fniZKigMzhEna_UPZXqMi-SfzSaqZktqPVczmicakpfCCyxoCc_MQAvD_BwE)
+- [Michaels](https://www.michaels.com/)
+- [Tinkersphere](https://tinkersphere.com/)
 - [Adafruit](https://www.adafruit.com/)
 - [Sparkfun](https://www.sparkfun.com/)
+- [Micro Center](https://www.microcenter.com/)
