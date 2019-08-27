@@ -1,4 +1,9 @@
 # Creativity and Comp Lab SecD Fall 2019
+## Links
+[Syllabus](https://drive.google.com/drive/folders/1ekCLgRT3-kKLF5hWZEJOpjXBPogD061bs)
+
+[Are.na Group](https://www.are.na/creativity-and-comp-lab-secd-fa19)
+
 ## Slides
 Week 1 - [Electricity](https://docs.google.com/presentation/d/1s91O5JwK2m-d8K2O7BpPYuwWmRKmPurLMXh5FBQASdc/edit?usp=sharing)
 ## Code
