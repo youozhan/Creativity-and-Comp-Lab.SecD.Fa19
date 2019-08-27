@@ -1,5 +1,6 @@
 # Creativity and Comp Lab SecD Fall 2019
 ## Slides
+Week 1 - [Electricity](https://docs.google.com/presentation/d/1s91O5JwK2m-d8K2O7BpPYuwWmRKmPurLMXh5FBQASdc/edit?usp=sharing)
 ## Code
 ## Resources
 ### Tools
