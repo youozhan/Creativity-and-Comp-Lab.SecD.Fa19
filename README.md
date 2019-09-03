@@ -6,6 +6,8 @@
 
 ## Slides
 Week 1 - [Electricity](https://docs.google.com/presentation/d/1s91O5JwK2m-d8K2O7BpPYuwWmRKmPurLMXh5FBQASdc/edit?usp=sharing)
+
+Week 2 - [Analog Electronics](https://drive.google.com/open?id=1N-xwk4iH5Zy-CkcoUX5MxcV2EKoH7AUZ9WHEBF1ZrxY)
 ## Code
 ## Resources
 ### Tools
