@@ -11,6 +11,8 @@ Week 2 - [Analog Electronics](https://drive.google.com/open?id=1N-xwk4iH5Zy-Ckco
 
 Week 3 - [Soldering Fundamentals](https://drive.google.com/open?id=1A8ds_UpXYFbk0a-JMSGTbvBYeaqVw-_SLAvOAt-o3KM)
 
+Week 4 - [Intro to Arduino](https://docs.google.com/presentation/d/1Sgh0aZyqgCwSVgEt98-psD8IXtWmLsemMlwwdBBNM9M/edit?usp=sharing)
+
 ## Lession Notes
 
 [Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
