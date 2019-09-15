@@ -9,7 +9,7 @@ Week 1 - [Electricity](https://docs.google.com/presentation/d/1s91O5JwK2m-d8K2O7
 
 Week 2 - [Analog Electronics](https://drive.google.com/open?id=1N-xwk4iH5Zy-CkcoUX5MxcV2EKoH7AUZ9WHEBF1ZrxY)
 
-Week 3 - [Soldering Fundamentals](https://docs.google.com/presentation/d/1DNsQfqSGOgwo_1aUbyIZMYYixQFUaY4LfOoCqd5NMds/edit?usp=sharing)
+Week 3 - [Soldering Fundamentals](https://drive.google.com/open?id=1A8ds_UpXYFbk0a-JMSGTbvBYeaqVw-_SLAvOAt-o3KM)
 
 ## Lession Notes
 
