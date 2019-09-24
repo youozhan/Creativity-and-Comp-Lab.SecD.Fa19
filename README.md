@@ -13,6 +13,8 @@ Week 3 - [Soldering Fundamentals](https://drive.google.com/open?id=1A8ds_UpXYFbk
 
 Week 4 - [Intro to Arduino](https://docs.google.com/presentation/d/1Sgh0aZyqgCwSVgEt98-psD8IXtWmLsemMlwwdBBNM9M/edit?usp=sharing)
 
+Week 5 - [Module 1 Review](https://docs.google.com/presentation/d/1cJyBFfX_PZh0VGvMDs6gfwo_2Hy9zqZaq4IN3BjAtDg/edit?usp=sharing)
+
 ## Lession Notes
 
 [Voltage, Current, Resistance, and Ohm's Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
