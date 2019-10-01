@@ -15,6 +15,8 @@ Week 4 - [Intro to Arduino](https://docs.google.com/presentation/d/1Sgh0aZyqgCwS
 
 Week 5 - [Module 1 Review](https://docs.google.com/presentation/d/1cJyBFfX_PZh0VGvMDs6gfwo_2Hy9zqZaq4IN3BjAtDg/edit?usp=sharing)
 
+Week 6 - [Introduction to p5.js](https://docs.google.com/presentation/d/1sghh6ySr2eMjfe9CHcgrPSo3pjzsgrClUHTOhfTzk-k/edit?usp=sharing)
+
 [Lesson Notes](lesson-notes.md)
 
 [Arduino Code](/Arduino)
