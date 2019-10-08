@@ -21,6 +21,8 @@ Week 6 - [Introduction to p5.js](https://docs.google.com/presentation/d/1sghh6yS
 
 [Arduino Code](/Arduino)
 
+[p5.js Code](https://github.com/youozhan/p5Intro)
+
 ## Resources
 ### Tools
 - [GitHub](https://github.com/)
