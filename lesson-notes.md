@@ -26,9 +26,15 @@
 
 [Integrated Circuits](https://learn.sparkfun.com/tutorials/integrated-circuits/all)
 
+[Getting to know the 555](https://learn.adafruit.com/getting-to-know-the-555/references)
+
 [555 Timer Operating Modes](http://www.555-timer-circuits.com/operating-modes.html)
 
 [555 Astable Circuit Calculator](http://www.ohmslawcalculator.com/555-astable-calculator)
+
+[555 Timer](https://www.instructables.com/id/555-Timer/)
+
+[55 TIMER BASICS – MONOSTABLE MODE](http://www.circuitbasics.com/555-timer-basics-monostable-mode/)
 
 [How to Read a Schematic](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all)
 
