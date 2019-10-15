@@ -17,6 +17,8 @@ Week 5 - [Module 1 Review](https://docs.google.com/presentation/d/1cJyBFfX_PZh0V
 
 Week 6 - [Introduction to p5.js](https://docs.google.com/presentation/d/1sghh6ySr2eMjfe9CHcgrPSo3pjzsgrClUHTOhfTzk-k/edit?usp=sharing)
 
+Week 8 - [APIs in p5.js](https://docs.google.com/presentation/d/1GY5ss2Jru-qf2F-Oyj_KUq5sZJSrKqkFCfbwAw8kH1o/edit?usp=sharing)
+
 [Lesson Notes](lesson-notes.md)
 
 [Arduino Code](/Arduino)
