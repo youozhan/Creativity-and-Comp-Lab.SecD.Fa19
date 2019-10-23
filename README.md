@@ -19,6 +19,8 @@ Week 6 - [Introduction to p5.js](https://docs.google.com/presentation/d/1sghh6yS
 
 Week 8 - [APIs in p5.js](https://docs.google.com/presentation/d/1GY5ss2Jru-qf2F-Oyj_KUq5sZJSrKqkFCfbwAw8kH1o/edit?usp=sharing)
 
+Week 9 - [Signal Processing & Parsing Data](https://docs.google.com/presentation/d/1yx1L3mjO2tO2VmaBTFzdH8ERefHUsU6IcXPq3ZkB_HM/edit?usp=sharing)
+
 [Lesson Notes](lesson-notes.md)
 
 [Arduino Code](/Arduino)
