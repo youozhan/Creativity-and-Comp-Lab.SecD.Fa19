@@ -21,6 +21,8 @@ Week 8 - [APIs in p5.js](https://docs.google.com/presentation/d/1GY5ss2Jru-qf2F-
 
 Week 9 - [Signal Processing & Parsing Data](https://docs.google.com/presentation/d/1yx1L3mjO2tO2VmaBTFzdH8ERefHUsU6IcXPq3ZkB_HM/edit?usp=sharing)
 
+Week 10 - [Signal Processing & Parsing Data](https://docs.google.com/presentation/d/1YN1zWlwsbpjJAdBovYdYUH7gnPs4dO4Wp9-2s3ktZus/edit?usp=sharing)
+
 [Lesson Notes](lesson-notes.md)
 
 [Arduino Code](/Arduino)
@@ -28,6 +30,11 @@ Week 9 - [Signal Processing & Parsing Data](https://docs.google.com/presentation
 [p5.js Code](https://github.com/youozhan/p5Intro)
 
 ## Resources
+### API
+
+### Data Source
+- [shiffman-corpora](https://github.com/shiffman/corpora/tree/master/data)
+
 ### Tools
 - [GitHub](https://github.com/)
 - [GitHub Pages](https://pages.github.com/)
