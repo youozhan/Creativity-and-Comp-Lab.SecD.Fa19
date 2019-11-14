@@ -60,6 +60,45 @@
 
 [gitignore](https://git-scm.com/docs/gitignore)
 
+[Learning How to Git: Ignoring Files and Folders using GitIgnore](https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3)
+
 [Creating your first repository using GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop)
 
 [How to use Visual Studio Code](https://flaviocopes.com/vscode/)
+
+[Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
+
+[What Is an API and Why Should I Use One?](https://medium.com/@TebbaVonMathenstien/what-is-an-api-and-why-should-i-use-one-863c3365726b)
+
+[processing/p5](https://github.com/processing/p5.js)
+
+[API Query with User Input - p5.js Tutorial](https://www.youtube.com/watch?v=4UoUqnjUC2c)
+
+[Twitter API Basics - Twitter Bot Tutorial](https://www.youtube.com/watch?v=7-nX3YOC4OA)
+
+[Working with Data - p5.js Tutorial](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+
+[The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
+
+[Jake Archibald: In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+
+[Data, Libraries and APIs](https://shiffman.net/a2z/data-apis/)
+
+[weatherstack api](https://weatherstack.com/documentation)
+
+[json vs. xml](https://restfulapi.net/json-vs-xml/)
+
+[ml5.js examples search](https://ml5js.github.io/ml5-examples/public/)
+
+[mapbox static images api](https://docs.mapbox.com/api/maps/#static-images)
+
+[mapbox latitude & longitude](https://docs.mapbox.com/help/glossary/lat-lon/)
+
+[pokeapi](https://pokeapi.co/)
+
+[Web Mercator projection](https://en.wikipedia.org/wiki/Web_Mercator_projection)
+
+[asciiart](https://www.tetoki.eu/asciiart/)
+
+
+

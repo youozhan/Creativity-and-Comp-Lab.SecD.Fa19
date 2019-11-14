@@ -25,6 +25,8 @@ Week 10 - [Signal Processing & Parsing Data](https://docs.google.com/presentatio
 
 Week 11 - [Module 2 Review](https://docs.google.com/presentation/d/1Jh9adceaj8GASqvGyauzWgBFfxiBiYNizzbAYNnHvxM/edit?usp=sharing)
 
+Week 12 - [Module 3 Introduction](https://docs.google.com/presentation/d/1quG3NMsu32gj3gx0iBx0PItii7S6DN-nm8AzL76_Jdo/edit?usp=sharing)
+
 [Lesson Notes](lesson-notes.md)
 
 [Arduino Code](/Arduino)
