@@ -35,6 +35,19 @@ Week 12 - [Module 3 Introduction](https://docs.google.com/presentation/d/1quG3NM
 
 ## Resources
 ### API
+[NY Times](https://developer.nytimes.com/docs/most-popular-product/1/overview)
+
+[Google Books](https://developers.google.com/books/docs/v1/getting_started)
+
+[Poke API](https://pokeapi.co/)
+
+[International Service Station](http://api.open-notify.org/iss-now.json)
+
+[Unsplash API](https://source.unsplash.com/random)
+
+[Open Air Quality](https://docs.openaq.org/)
+
+[Giphy API](https://developers.giphy.com/docs/api/endpoint)
 
 ### Data Source
 - [shiffman-corpora](https://github.com/shiffman/corpora/tree/master/data)
