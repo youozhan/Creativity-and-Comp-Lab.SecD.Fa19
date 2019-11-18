@@ -56,6 +56,11 @@ Week 12 - [Module 3 Introduction](https://docs.google.com/presentation/d/1quG3NM
 - [(NO)WHERE (NOW)HERE](https://design-milk.com/nowhere-nowhere-interactive-dresses-by-ying-gao/) - Interactive dress by Ying Gao
 - [Deltu by Alexia Léchot](https://www.creativeapplications.net/arduino-2/deltu-by-alexia-lechot-ipad-as-a-mirror-interface-between-humans-and-robots/) - iPad as a 'mirror interface' between humans and robots
 - [LED THROWIES](https://www.graffitiresearchlab.de/category/led-throwies/)
+- [Air Matters](https://vimeo.com/164663756)
+- [Touching the Void](https://hudanli.wordpress.com/2017/05/22/touching-the-void-thesis-project/)
+- [The Social Ontology of L.S. Lowry](https://markcarrigan.net/2015/03/25/the-social-ontology-of-l-s-lowry/)
+- [Vera Molnar](https://www.youtube.com/watch?v=efZfR7U7cM4)
+- [Emmissaries](https://www.youtube.com/watch?v=TO6Luilc4Bo)
 ### References
 - [The Coding Train](https://thecodingtrain.com/)
 - [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
