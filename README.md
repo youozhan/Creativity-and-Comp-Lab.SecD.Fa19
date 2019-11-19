@@ -27,6 +27,8 @@ Week 11 - [Module 2 Review](https://docs.google.com/presentation/d/1Jh9adceaj8GA
 
 Week 12 - [Module 3 Introduction](https://docs.google.com/presentation/d/1quG3NMsu32gj3gx0iBx0PItii7S6DN-nm8AzL76_Jdo/edit?usp=sharing)
 
+Week 13 - [Adafruit.io Workshop](https://docs.google.com/presentation/d/1Hxjsd9dTlZ7rsSUN6qiQZh8vscT660CQR4ch8NryLvw/edit?usp=sharing)
+
 [Lesson Notes](lesson-notes.md)
 
 [Arduino Code](/Arduino)
@@ -61,6 +63,8 @@ Week 12 - [Module 3 Introduction](https://docs.google.com/presentation/d/1quG3NM
 - [The Social Ontology of L.S. Lowry](https://markcarrigan.net/2015/03/25/the-social-ontology-of-l-s-lowry/)
 - [Vera Molnar](https://www.youtube.com/watch?v=efZfR7U7cM4)
 - [Emmissaries](https://www.youtube.com/watch?v=TO6Luilc4Bo)
+- [Movable Type at the New York Times building](https://vimeo.com/1850342)
+
 ### References
 - [The Coding Train](https://thecodingtrain.com/)
 - [p5.js Code of Conduct](https://github.com/processing/p5.js/blob/master/CODE_OF_CONDUCT.md)
